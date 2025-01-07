@@ -7,6 +7,9 @@ This is an open-source project for visualizing maandamano (demonstrations) incid
 - Map-based visualizations of incidents
 - Trends and statistics
 
+![Kenya Maandamano Visualizations](images/BBCGenZProtestors.png)
+
+
 ## Setup
 
 1. Clone the repository:
